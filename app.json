@@ -1,0 +1,12 @@
+{
+  "name": "MukeSoft",
+  "displayName": "MukeSoft",
+  "expo": {
+    "name": "MukeSoft",
+    "slug": "MukeSoft",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
